@@ -1,0 +1,19 @@
+.form-container {
+    padding: 10px;
+    background-color: #071952;
+    border-radius: 7px;
+}
+
+.form-input {
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.form-submit {
+    background-color: #35A29F;
+    border: none;
+    padding: 5px;
+    color: #fff;
+    font-weight: 600;
+}

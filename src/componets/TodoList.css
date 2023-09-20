@@ -1,0 +1,22 @@
+.todo-list {
+    width: 400px;
+    background-color: #071953;
+    border-radius: 10px;
+    color: #fff;
+    padding: 10px;
+}
+
+.todo-item {
+    background-color: #088395;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    text-align: line;
+}
+.completed {
+    text-decoration: line-through;
+    color: rgb(75, 155, 212); 
+}
+
